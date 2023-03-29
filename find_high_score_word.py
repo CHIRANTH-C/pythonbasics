@@ -1,3 +1,4 @@
+# Assignment 2
 from alphabets import alphabet_values # import alphabet_values() from alphabets module
 
 def high_score_word(input_string): # define a function to take input as an argument

@@ -1,3 +1,4 @@
+# Assignment 2
 # define a function 'alphabet_values()' where score of each alphabets are store
 def alphabet_values():
     values ={ # creat a json with <key> as alphabets and <value> as its score

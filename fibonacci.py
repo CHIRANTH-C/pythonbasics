@@ -1,3 +1,4 @@
+# Assignment 3
 def fibonacci(num_1 , num_2): # define a function called 'fibonacci()' that takes two variables as inputs 
   fibonacci_list = list() # create empty list called 'fibonacci_list'
   fibonacci_list.append(num_1) # append 1st number to the fibonacci_list
